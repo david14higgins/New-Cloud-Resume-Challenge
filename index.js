@@ -7,3 +7,5 @@ async function updateViewsCounter() {
 }
 
 updateViewsCounter();
+
+//Added a comment
